@@ -1,6 +1,6 @@
 # MultithreadingD
 
-This project combines foundamental concurrency concept and server/cliet socket. 
+This project combines foundamental concurrency concept (and server/cliet socket). 
 The proejct consists of a
 (1.)sephamore parking lot with reentrant locks which only allows a set number of ppl 
 to get into the investment counter to buy stocks,
