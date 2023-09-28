@@ -1,4 +1,4 @@
-/* This is a practice for consolidating what i learn from Udemy java multithread programming course by Sir.Probenski
+/* 
  * This program demonstrates the basic understanding of the implementation of parellel programming concept. 
  * tools used: 1.semaphore 2.reentrantlock 3.Non-blocking IO
  * Scenarios: in the early days of stock trading, there are only 4 counters at the stock market,
